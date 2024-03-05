@@ -1,0 +1,5 @@
+body {
+    position: relative;
+    min-height: 100vh; /* Isso garante que o corpo tenha pelo menos 100% da altura da janela de visualização */
+}
+
